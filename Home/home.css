@@ -1,0 +1,178 @@
+.menu-wrapper {
+    width: 1200px !important;
+    padding: 15px 10px;
+}
+.menu-box {
+    width: 100%;
+}
+
+.menu-logo img {
+    width: 100px;
+}
+
+.global-menu {
+    padding: 0;
+}
+
+.menu-list {
+    padding: 0px 10px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.menu-link {
+    color: #eb4d4b !important;
+}
+
+.search-section {
+    height: 280px;
+    background-image: url('images/background.jpg');
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.search-box {
+    text-align: center;
+}
+
+.input-ele {
+    width: 350px;
+    background: rgb(255, 255, 255);
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    padding: 5px 12px;
+}
+
+.global-btn {
+    background: #ac3746;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 5px 12px;
+}
+
+.global-btn:hover {
+    color: rgba(255,255,255,0.8);
+}
+
+.food-section {
+    text-align: center;
+    background: var(--bs-gray-200);
+    background-color: #c7c0c0;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+
+.global-title {
+    font-size: 35px;
+    margin: 50px 0px;
+    align-items: center;
+}
+
+.food-item-4{
+    display: flex;
+    justify-content: space-between;
+}
+
+.main{
+    width: 100%;
+    position:relative;
+}
+
+.food-item-6 {
+    display: flex;
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-right: 15px;
+    padding-right: unset;
+    margin-bottom: 20px;
+}
+
+.left {
+    width: 20%;
+    margin-right: 20px;
+}
+
+.left img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.right {
+    width: 80%;
+    text-align: left;
+}
+.food-title {
+    font-weight: 700;
+}
+.food-price {
+    font-weight: 700;
+    margin-bottom: unset;
+}
+.food-desc {
+    margin: 10px 0px;
+    display: block;
+}
+
+.logo-brand {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px;
+}
+
+.logo-brand img {
+    width: 65px;
+}
+
+.no-copy {
+    text-align: center;
+}
+.no-copy span {
+    color: #eb4d4b;
+}
+
+.footer {
+    width: 50px;
+}
+
+.menu-item__showMore{
+    display: flex;
+    justify-content: center;
+    padding: 30px 0;
+}
+.menu-item__showMore > a{
+    font-size: 18px;
+    color:palevioletred
+}
+.menu-item__showMore > a:hover{
+    color:rgb(174, 114, 134)
+}
+
+.explore-itemCard-title{
+    position:absolute;
+    bottom: 10%;
+    left: 40%;
+    color: white;
+    font-size: 18px;
+}
+
+.col-12{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+
+.food-item-4{
+    display: flex;
+    justify-content: space-between;
+}
